@@ -1,2 +1,7 @@
-# demo-constructora-cope-srl
-Demo web para CONSTRUCTORA COPE SRL — diseñada por eterlab.
+# CONSTRUCTORA COPE SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
